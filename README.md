@@ -1,74 +1,86 @@
-# 👋 Hi, I'm Dharmike K
-
-🎓 I'm a passionate Computer Science (IoT) undergraduate at GITAM University, Bengaluru, graduating in 2026. I love building tech that solves real-world problems and am currently diving deeper into **Python development**, **AI automation**, and **web technologies** like **React**, **Node.js**, and **REST APIs**.
+<h1 align="center">Hi 👋, I'm Dharmike K</h1>
 
 ---
 
-## 💼 Current Focus
-- Designing **intelligent agents** and multi-agent systems at *Agusta Company*
-- Learning advanced **web development** and API integration
-- Exploring AI and automation to build smarter systems
+### 🦉 About Me
+🎓 I'm a passionate Computer Science (IoT) undergraduate at GITAM University, Bengaluru  
+🔭 Currently learning: Python, REST APIs, AI agents, and full-stack development  
+🌱 Eager to solve real-world problems with technology  
+📫 Reach me at: [k.dharmike@gmail.com](mailto:k.dharmike@gmail.com)
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** Python, Java, C (basic), HTML, CSS  
-- **Tools & Libraries:** Pandas, Matplotlib, REST APIs, JWT  
-- **Databases:** SQL, MySQL  
-- **Other Skills:** AI Agents, Embedded Systems, Excel Analysis
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-dharmike-6364ba333)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Dharmiki408)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:k.dharmike@gmail.com)
 
 ---
 
-## 🛠️ Projects
+### 💻 Tech Stack
 
-- **Blogging Website**  
-  CMS-based platform built with **React**, **Node.js**, and **JWT** authentication. Supports post management, commenting, and sharing. Reduced admin workload by 30%.
-
-- **DeepFake Image Detection (CNN)**  
-  Trained convolutional neural networks on DFDC & Celeb-DF datasets. Achieved **92% precision**, **89% recall** in detecting AI-generated images.
-
-- **Sales Data Analysis**  
-  Used Excel to analyze 6 months of sales data. Revealed patterns that led to a **12% boost in quarterly revenue**.
-
-- **IoT Health Monitoring System**  
-  Smart interface for reading vitals and predicting health reports using historical data. Tech used: Python, Embedded Systems, MySQL, Dashboards.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-00BCD4?logo=api&logoColor=white)
 
 ---
 
-## 📈 Internship Experience
+### 🔬 Projects
 
-- **AI Intern – Intelligent Agents**, *Agusta Company*  
-  Created responsive multi-agent systems and integrated REST APIs to boost decision-making performance by 25%.
+- 📝 **Blogging Website**  
+  React + Node.js CMS with authentication (JWT) and comment/share features
 
-- **Algorithm Development Intern**, *Pathvision Innovations*  
-  Developed Python-based rule detection and behavior analysis using sensor fusion.
+- 🧠 **DeepFake Image Detection (CNN)**  
+  Used DFDC & Celeb-DF datasets to achieve 92% precision
 
-- **Data Analyst Intern**, *Elevates Lab*  
-  Delivered actionable business insights with Pandas and Matplotlib, improving targeting accuracy by 15%.
+- 📊 **Sales Data Analysis**  
+  Found insights from 6 months of sales using Excel (12% revenue boost)
 
-- **Python Programming Intern**, *Besant Technologies*  
-  Built automation tools and optimized scripts to reduce runtime by 20%.
-
----
-
-## 🏅 Certifications
-- Web Fundamentals – *Infosys Springboard* (HTML Development)
-- Gatekeeper Training – *Suicide Prevention Awareness*
+- 🩺 **IoT Health Monitoring System**  
+  Read vitals and predict trends with Python, MySQL, and embedded devices
 
 ---
 
-## 🌐 Let's Connect
+### 🧪 Internships
 
-- 📧 [k.dharmike@gmail.com](mailto:k.dharmike@gmail.com)
-- 🔗 [GitHub](https://github.com/Dharmiki408)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/k-dharmike-6364ba333)
+- **AI Intern – Agusta Company**  
+  Built multi-agent systems with REST API integrations
+
+- **Python Intern – Besant Technologies**  
+  Script automation with performance optimization
+
+- **Data Analyst – Elevates Lab**  
+  Used Pandas & Matplotlib for forecasting and business insights
+
+- **Algorithm Developer – Pathvision Innovation**  
+  AI-based traffic & driver rule detection
 
 ---
 
-## 🧠 Interests & Strengths
+### 📜 Certifications
 
-Outside of coding, I enjoy **cooking**, **badminton**, and **movies**. I'm a **quick learner**, team player, and passionate problem solver.
+- Infosys Springboard – Web Fundamentals (HTML)  
+- Gatekeeper Training – Suicide Prevention Awareness
 
 ---
 
-> “Eager to contribute, learn, and grow while making a real impact through technology.”
+### 📊 GitHub Stats
+
+![Dharmike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharmiki408&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmiki408&layout=compact&theme=react)
+
+---
+
+### 🧠 Interests
+
+🎯 Cooking | 🏸 Badminton | 🎥 Movies  
+💡 Quick learner, strong team player, and problem solver
+
+---
